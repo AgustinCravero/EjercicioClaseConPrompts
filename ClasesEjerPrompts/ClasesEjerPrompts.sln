@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasesEjerPrompts", "ClasesEjerPrompts.csproj", "{2000D5BE-E198-4876-9FBD-54954CE309B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForms", "..\WinForms\WinForms.csproj", "{BFD738ED-6B71-41AA-9425-EAF158FF9645}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2000D5BE-E198-4876-9FBD-54954CE309B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2000D5BE-E198-4876-9FBD-54954CE309B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2000D5BE-E198-4876-9FBD-54954CE309B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2000D5BE-E198-4876-9FBD-54954CE309B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFD738ED-6B71-41AA-9425-EAF158FF9645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD738ED-6B71-41AA-9425-EAF158FF9645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD738ED-6B71-41AA-9425-EAF158FF9645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD738ED-6B71-41AA-9425-EAF158FF9645}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E15F355B-AFA1-4250-BF34-73E0B55EF7F6}
+	EndGlobalSection
+EndGlobal

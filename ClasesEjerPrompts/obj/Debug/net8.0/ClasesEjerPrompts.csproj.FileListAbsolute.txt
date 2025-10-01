@@ -1,0 +1,15 @@
+C:\Agustín Cravero - Desarrollo de Software\Programacion1\EjercicioClaseConPrompts\ClasesEjerPrompts\bin\Debug\net8.0\ClasesEjerPrompts.deps.json
+C:\Agustín Cravero - Desarrollo de Software\Programacion1\EjercicioClaseConPrompts\ClasesEjerPrompts\bin\Debug\net8.0\ClasesEjerPrompts.runtimeconfig.json
+C:\Agustín Cravero - Desarrollo de Software\Programacion1\EjercicioClaseConPrompts\ClasesEjerPrompts\bin\Debug\net8.0\ClasesEjerPrompts.dll
+C:\Agustín Cravero - Desarrollo de Software\Programacion1\EjercicioClaseConPrompts\ClasesEjerPrompts\bin\Debug\net8.0\ClasesEjerPrompts.pdb
+C:\Agustín Cravero - Desarrollo de Software\Programacion1\EjercicioClaseConPrompts\ClasesEjerPrompts\obj\Debug\net8.0\ClasesEjerPrompts.csproj.AssemblyReference.cache
+C:\Agustín Cravero - Desarrollo de Software\Programacion1\EjercicioClaseConPrompts\ClasesEjerPrompts\obj\Debug\net8.0\ClasesEjerPrompts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Agustín Cravero - Desarrollo de Software\Programacion1\EjercicioClaseConPrompts\ClasesEjerPrompts\obj\Debug\net8.0\ClasesEjerPrompts.AssemblyInfoInputs.cache
+C:\Agustín Cravero - Desarrollo de Software\Programacion1\EjercicioClaseConPrompts\ClasesEjerPrompts\obj\Debug\net8.0\ClasesEjerPrompts.AssemblyInfo.cs
+C:\Agustín Cravero - Desarrollo de Software\Programacion1\EjercicioClaseConPrompts\ClasesEjerPrompts\obj\Debug\net8.0\ClasesEjerPrompts.csproj.CoreCompileInputs.cache
+C:\Agustín Cravero - Desarrollo de Software\Programacion1\EjercicioClaseConPrompts\ClasesEjerPrompts\obj\Debug\net8.0\ClasesEjerPrompts.sourcelink.json
+C:\Agustín Cravero - Desarrollo de Software\Programacion1\EjercicioClaseConPrompts\ClasesEjerPrompts\obj\Debug\net8.0\ClasesEjerPrompts.dll
+C:\Agustín Cravero - Desarrollo de Software\Programacion1\EjercicioClaseConPrompts\ClasesEjerPrompts\obj\Debug\net8.0\refint\ClasesEjerPrompts.dll
+C:\Agustín Cravero - Desarrollo de Software\Programacion1\EjercicioClaseConPrompts\ClasesEjerPrompts\obj\Debug\net8.0\ClasesEjerPrompts.pdb
+C:\Agustín Cravero - Desarrollo de Software\Programacion1\EjercicioClaseConPrompts\ClasesEjerPrompts\obj\Debug\net8.0\ClasesEjerPrompts.genruntimeconfig.cache
+C:\Agustín Cravero - Desarrollo de Software\Programacion1\EjercicioClaseConPrompts\ClasesEjerPrompts\obj\Debug\net8.0\ref\ClasesEjerPrompts.dll

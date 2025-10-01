@@ -1,0 +1,2 @@
+1- Usando Windows Forms, como hago para al presionar un botón que cargue en un DataGridView todos los vehículos registrados en la base.
+2- Como hago para que luego de registrar un vehiculo se borre lo ingresado en los TextBox?
